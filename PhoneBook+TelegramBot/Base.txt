@@ -1,0 +1,9 @@
+Homer;Simpson;999;
+Bart;Simpson;888;
+Liza;Simpson;777;
+Peter;Grifin;666;
+Cris;Grifin;555;
+Peter;Parker;444;
+2;2;2;
+Test;Test;1234;
+Настя;Ломакина;999444;
